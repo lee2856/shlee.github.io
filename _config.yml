@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Seunghoon Lee @Purdue"
+title                    : "Seunghoon Lee"
 title_separator          : "-"
 name                     : &name "Seunghoon Lee"
 description              : &description "Ph.D. Student at Purdue University"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Seunghoon Lee"
   avatar           : "shlee.jpg"
-  bio              : "I am a Ph.D. student in the Department of Computer Science at Purdue University. My research interest lies in cryptography, in particular, in graph theoretical aspects. I am drawn to password hashing using data-independent memory-hard functions along with quantum information theory."
+  bio              : "Ph.D. Student, Department of Computer Science, Purdue University"
   location         : "West Lafayette, Indiana"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
