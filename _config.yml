@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Seunghoon Lee"
-  avatar           : "shlee.png"
+  avatar           : "images/shlee.png"
   bio              : "I am a Ph.D. student in the Department of Computer Science at Purdue University. My research interest lies in cryptography, in particular, in graph theoretical aspects. I am drawn to password hashing using data-independent memory-hard functions along with quantum information theory."
   location         : "West Lafayette, Indiana"
   employer         :
